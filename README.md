@@ -4,7 +4,7 @@
 <div align="center">
 <img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
 
-
+##  [Sailing The 7 Seas](https://claudemods.co.uk)
 
 <div align="center">
 
