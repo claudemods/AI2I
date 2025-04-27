@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/github/v/release/claudemods/?color=FFD700&label=Latest%20Release&style=for-the-badge)]()
+[![Version](https://img.shields.io/github/v/release/claudemods/Arch-Incus-Iso-Creator?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/Arch-Incus-Iso-Creator/releases/tag/v1.0-Build-27-04-2025)
 
 
 # claudemods Arch Incus Iso Creator
