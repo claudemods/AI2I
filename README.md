@@ -23,8 +23,6 @@
 
 # claudemods Arch Incus Iso Creator
 <div align="center">
-claudemods Incus 2 Iso
-	<div align="center">
 Create Isos From Incus System Containers
 		<div align="center">
 currently this is alpha and most things have been converted from my apex arch iso creator
